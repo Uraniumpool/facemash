@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+github.com/Uraniumpool/facemash"
   },
   "author": "Md Saqib Salim",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Uraniumpool/facemash/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Uraniumpool/facemash",
   "dependencies": {
     "animate-components": "^1.4.8",
     "axios": "^0.17.1",
