@@ -8,11 +8,11 @@ A web-app created with React to vote for your favorite users. Screenshots below!
 2. [Own the project](#own-the-project)
 
 # Screenshots
-![alt text](./Screenshots/Snap 2017-12-19 at 17.08.03.png)
-![alt text](./Screenshots/Snap 2017-12-19 at 17.08.53.png)
-![alt text](./Screenshots/Snap 2017-12-19 at 17.09.00.png)
-![alt text](./Screenshots/Snap 2017-12-19 at 17.09.22.png)
-![alt text](./Screenshots/Snap 2017-12-19 at 17.07.49.png)
+![alt text](https://raw.githubusercontent.com/Uraniumpool/facemash/refs/heads/main/Screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/Uraniumpool/facemash/refs/heads/main/Screenshots/2.png)
+![alt text](https://raw.githubusercontent.com/Uraniumpool/facemash/refs/heads/main/Screenshots/3.png)
+![alt text](https://raw.githubusercontent.com/Uraniumpool/facemash/refs/heads/main/Screenshots/4.pngg)
+![alt text](https://raw.githubusercontent.com/Uraniumpool/facemash/refs/heads/main/Screenshots/5.png)
 
 UI is taken from [Instagam-clone]() I created!!
 
